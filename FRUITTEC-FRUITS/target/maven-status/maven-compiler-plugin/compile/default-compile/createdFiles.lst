@@ -1,0 +1,7 @@
+com\aisatec\service\impl\FruitServiceImpl.class
+com\aisatec\model\Fruit.class
+com\aisatec\controller\FruitController.class
+com\aisatec\service\FruitService.class
+com\aisatec\App.class
+com\aisatec\dao\FruitDAO.class
+com\aisatec\config\SwaggerConfig.class
